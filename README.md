@@ -1,0 +1,13 @@
+# todo
+- [ ] get nvim-biscuits working
+- [ ] remove hyprscratch windows from hyprpanel
+- [ ] windowrules hypr
+- [ ] wofi --> rofi
+- [ ] scripts for nixy 
+    - [ ] run hyprctl reload 
+    - [ ] scripts so that dev can be faster
+- [ ] set-up niri 
+- [ ] wallpaper manager
+    - [ ] swaybg
+- [ ] hyprpanel --> waybar
+    - noctalia
